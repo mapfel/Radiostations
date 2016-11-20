@@ -1,1 +1,15 @@
-http://rs6.stream24.net:80/stream
+#EXTM3U
+#EXTINF:-1,Radio Arabella 80er
+http://rs32.stream24.net/arabella-80er.mp3
+
+#EXTINF:-1,Radio Arabella Herzflimmern
+http://rs32.stream24.net/arabella-herzflimmern.mp3
+
+#EXTINF:-1,Radio Arabella Party
+http://rs32.stream24.net/arabella-party.mp3
+
+#EXTINF:-1,Radio Arabella Rock
+http://rs32.stream24.net/arabella-rock.mp3
+
+#EXTINF:-1,Radio Arabella Live
+http://rs26.stream24.net/stream
